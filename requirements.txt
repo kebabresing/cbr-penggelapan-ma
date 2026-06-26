@@ -1,0 +1,40 @@
+# =====================================================
+# Requirements - Sistem CBR Putusan Pengadilan
+# Pidana Umum Penggelapan
+# =====================================================
+
+# Core Data Processing
+pandas
+numpy
+
+# PDF Processing
+pdfplumber
+PyPDF2
+
+# Machine Learning
+scikit-learn
+
+# Web Scraping / HTML Parsing
+beautifulsoup4
+requests
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+joblib
+tqdm
+
+# Jupyter Notebook
+jupyter
+notebook
+ipykernel
+ipywidgets
+
+# Text Processing
+nltk
+regex
+
+# Progress Bar for Pandas
+tqdm[notebook]
