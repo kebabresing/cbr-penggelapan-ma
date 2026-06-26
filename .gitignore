@@ -20,6 +20,5 @@ venv/
 data/raw.rar
 
 # Trained models (too large for GitHub)
-models/*.pkl
 
 SubCPMK3 Genap 2025-2026.pdf
